@@ -5,7 +5,7 @@ export default function Home() {
    <>
    <h1>I am Ismaila</h1>
    <p>Hello, my name is <b>Ismaila Afeez.</b></p>
-   <p>I love drinking H<sub>2</sub>O</p>
+   <p>I love drinking H<sub>2</sub>O and i <i>breathe</i>in O<sup>2</sup></i></p>
    </>
   );
 }
